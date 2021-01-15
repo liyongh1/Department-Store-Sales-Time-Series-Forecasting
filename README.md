@@ -1,1 +1,1 @@
-# Department-Store-Sales-Time-Series-Forecasting
+# Department Store Sales Time-Series Forecasting
